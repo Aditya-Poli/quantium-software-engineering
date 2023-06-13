@@ -57,4 +57,22 @@ Estimated time for task completion: 30-60 minutes depending on your learning sty
 
 **Task 2 : Status ✅**
 
+---
+## Task 3: Create a Dash Application
+---
+1. Your task is to create a Dash app to visualise the data you generated in the last task. Lean on the resources linked below to learn more about the basics of working with Dash. Your application must incorporate the following elements:
+    1. A header which appropriately titles the visualiser
+    2. A line chart which visualises the sales data generated in the last task, sorted by date. Be sure to include appropriate axis labels for the chart.
+ 
+2. Recall the original purpose of the Dash app you are building — the goal is to answer Soul Foods’s question: “Were sales higher before or after the Pink Morsel price increase on the 15th of January, 2021?” With the visualiser complete, the answer should be obvious. Congratulations, you just answered a pertinent business question using the awesome power of quantitative data. Soul Foods will be pleased to hear all about it!
+ 
+3. When you are finished, commit and push your changes, then submit a link to your repo on the next step.
+
+
+### Task 3 - Resources
+
+* [Dash Layout](https://dash.plotly.com/layout)
+* [Dash Enterprise App Gallery](https://dash.plotly.com/layout)
+
+**Task 3 : Status ❌**
 

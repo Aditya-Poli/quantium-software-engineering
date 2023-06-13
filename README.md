@@ -55,6 +55,6 @@ Estimated time for task completion: 30-60 minutes depending on your learning sty
 * [CSV File Reading and Writing](https://docs.python.org/3/library/csv.html)
 * [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
 
-**Task 2 : Status ❌**
+**Task 2 : Status ✅**
 
 

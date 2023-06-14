@@ -93,3 +93,25 @@ Estimated time for task completion: 30-60 minutes depending on your learning sty
 * [Dash Layout](https://dash.plotly.com/layout)
 
 **Task 4 : Status ✅**
+
+---
+## Task 5: Test Your Dash Application
+---
+
+1. Your task is to create a test suite to verify your Dash app is working as expected. Using the standard Dash testing framework (documentation linked in the resources below) write three tests which ensure the following:
+    1. The header is present.
+    2. The visualisation is present.
+    3. The region picker is present.
+2. Execute your test suite using Pytest and ensure each test passes.
+3. Commit and push your changes, then submit a link to your repo below.
+
+
+### Task 5 - Resources
+
+* [Dash Testing](https://dash.plotly.com/testing)
+* [UnitTest](https://martinfowler.com/bliki/UnitTest.html)
+* [The Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.html)
+
+
+**Task 5 : Status ❌**
+

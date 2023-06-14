@@ -72,7 +72,7 @@ Estimated time for task completion: 30-60 minutes depending on your learning sty
 ### Task 3 - Resources
 
 * [Dash Layout](https://dash.plotly.com/layout)
-* [Dash Enterprise App Gallery](https://dash.plotly.com/layout)
+* [Dash Enterprise App Gallery](https://dash.gallery/Portal/)
 
-**Task 3 : Status ❌**
+**Task 3 : Status ✅**
 

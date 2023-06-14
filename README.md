@@ -86,7 +86,6 @@ Estimated time for task completion: 30-60 minutes depending on your learning sty
  
 3. When you are finished, commit and push your changes, then submit a link to your repo on the next step.
 
-
 ### Task 4 - Resources
 
 * [Adobe Color Create](https://color.adobe.com/create/color-wheel)

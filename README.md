@@ -76,3 +76,21 @@ Estimated time for task completion: 30-60 minutes depending on your learning sty
 
 **Task 3 : Status ✅**
 
+---
+## Task 4: Improve Your Dash Application
+---
+
+1. Soul Foods would like a way to dig into region-specific sales data for Pink Morsels. To this end, they’d like a radio button in your visualiser which allows them to filter sales data by region. Leaning on the resources linked below, add a radio button with five options to narrow which data appear in the line chart: “north,” “east,” “south,” “west,” and “all.”
+ 
+2. Now it’s time to dress up your Dash app! Apply some CSS to each element to make your application more visually appealing. There are no requirements for this step other than that you put effort into making your visualiser interesting. The model answer contains an example styling, but the possibilities are infinite — make your visualiser your own!
+ 
+3. When you are finished, commit and push your changes, then submit a link to your repo on the next step.
+
+
+### Task 4 - Resources
+
+* [Adobe Color Create](https://color.adobe.com/create/color-wheel)
+* [Basic Dash Callbacks](https://dash.plotly.com/basic-callbacks)
+* [Dash Layout](https://dash.plotly.com/layout)
+
+**Task 4 : Status ✅**
